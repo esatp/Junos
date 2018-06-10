@@ -1,0 +1,4 @@
+framework module Junos {
+    header "Junos-Swift.h"
+    requires objc
+}
