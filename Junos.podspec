@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
    s.description  = "A Feedback and Bug Report Framework SDK for iOS. Easy to use"
 
 
-  s.homepage         = "https://github.com/satismeter/satismeter-ios"
+  s.homepage         = "http://google.com"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author             = { "Esat Pllana" => "pllanaesat@gmail.com" }
@@ -26,9 +26,6 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "10.0"
 s.swift_version = '4.0'
 # s.source_files = 'Pod/Classes/**/*.h'
-# s.resource_bundles = {
-# 'SatisMeter' => ['Pod/Assets/*.bundle']
-# }
 #s.resources = 'Pod/Assets/**/*.bundle'
 
 s.vendored_frameworks = 'Pod/Assets/*.framework'
